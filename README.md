@@ -1,2 +1,0 @@
-# SVGMaker
-Created with CodeSandbox
